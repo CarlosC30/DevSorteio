@@ -1,6 +1,6 @@
 <h1>Sorteador</h1>
 
-<h2>Projeto de sortear numeros aleatorios,projeto de estudo e portifolio do <a  href="https://rodolfomori.com.br/devclub"></a>DevClub </h2>
+<h2>Sortear de numeros aleatorios,projeto de estudo e portifolio do <a href="https://rodolfomori.com.br/devclub"></a> DevClub</h2>
 
 <h3>Tecnologias</h3>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html">
